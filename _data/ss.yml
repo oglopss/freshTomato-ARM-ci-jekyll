@@ -12,3 +12,4 @@ files:
   - 0013 r6300v2init freshtomato-R6300v2-2018.2.000-140-initial-64K.chk
   - 0010 r6400z freshtomato-R6400-ARM-2018.2.000-140-AIO-128K.trx
   - 0016 ws880e freshtomato-WS880-ARM-2018.2.000-140-VPN-64K.trx
+  - 0015 r1do freshtomato-R1D-2018.2.000-140-Custom-64K.trx
